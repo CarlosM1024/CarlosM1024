@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy Carlos  
 
-<!--
-**CarlosM1024/CarlosM1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero Mecánico  
+🎓 Maestro en Ingeniería Electrónica  
+💻 Apasionado por el desarrollo de software, inteligencia artificial y aplicaciones móviles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas  
+- **Lenguajes:** Python, Dart (Flutter) 
+- **IA & ML:** YOLO, TensorFlow, PyTorch, TFLite  
+- **Cloud:** Firebase, Google Cloud Run, Docker  
+- **Otras:** Raspberry Pi, OpenCV, MATLAB, Arduino  
+
+---
+
+## 📌 Proyectos Destacados  
+- 📱 **App móvil** para detectar la madurez de cerezas de café (Flutter + YOLO + Firebase)  
+- 🤖 **Procesamiento de imágenes** en Google Cloud Run con YOLOv8  
+- 🛰️ **Aplicación Flutter con GPS y Firestore**  
+- 🔧 **Automatización con Raspberry Pi y Python**  
+
+---
+
+## 🌱 Un poco más sobre mí  
+- Combino mi experiencia en **mecánica y electrónica** con el mundo del **software**  
+- Me interesa la **IA aplicada a la ingeniería**  
+- Siempre abierto a colaborar en proyectos de innovación 🚀  
+
+---
