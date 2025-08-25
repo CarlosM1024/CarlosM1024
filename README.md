@@ -4,7 +4,7 @@
 
 🎓 Ingeniero Mecánico  
 🎓 Maestro en Ingeniería Electrónica  
-🏫 Universidad: [Tecnológico Nacional de México Campus Orizba](http://orizaba.tecnm.mx/web)
+🏫 Universidad: [Tecnológico Nacional de México Campus Orizaba](http://orizaba.tecnm.mx/web)
 
 💻 Apasionado por el desarrollo de software, inteligencia artificial y aplicaciones móviles  
 
