@@ -49,6 +49,14 @@
 
 ---
 
+## ⚡ Mi actividad reciente
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ## 📂 Mis Proyectos
 
 Checa en los repositorios debajo ⬇️⬇️⬇️
