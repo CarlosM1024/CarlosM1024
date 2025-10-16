@@ -54,10 +54,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#21178](https://github.com/ultralytics/ultralytics/issues/21178#issuecomment-3395424363) in [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
 2. ⭐ Starred [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop)<br>
-3. ⭐ Starred [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 15th, 2025, 1:03:47 PM
+Last Updated: Thursday, October 16th, 2025, 12:53:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
