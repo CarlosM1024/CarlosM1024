@@ -46,8 +46,12 @@
 ## 📈 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosM1024&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosM1024&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosM1024&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosM1024&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosM1024&theme=radical&hide_border=true" alt="Racha de contribuciones" height="165"/>
 </p>
 
 ---
@@ -64,9 +68,9 @@
 
 ## ⚡ Actividad Reciente
 
-<!-- RECENT_ACTIVITY:start -->
-<!-- RECENT_ACTIVITY:end -->
-
+<!--START_SECTION:activity-->
+<!-- Aquí aparecerán automáticamente tus actividades recientes -->
+<!--END_SECTION:activity-->
 ---
 
 ## 📂 Mis Proyectos
