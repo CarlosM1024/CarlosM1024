@@ -46,8 +46,8 @@
 ## 📈 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosM1024&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosM1024&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="165"/>
 </p>
 
 ---
@@ -64,8 +64,11 @@
 
 ## ⚡ Actividad Reciente
 
-<!-- RECENT_ACTIVITY:start -->
-<!-- RECENT_ACTIVITY:end -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Thursday, January 1st, 2026, 1:06:41 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
