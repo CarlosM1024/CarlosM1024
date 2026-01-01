@@ -1,7 +1,7 @@
 # 👋 Hola, soy Carlos  
 
-###🎓 Ingeniero Mecánico | Maestro en Ingeniería Electrónica   
-###🏫 Egresado del [Tecnológico Nacional de México Campus Orizaba](http://orizaba.tecnm.mx/web)
+### 🎓 Ingeniero Mecánico | Maestro en Ingeniería Electrónica   
+### 🏫 Egresado del [Tecnológico Nacional de México Campus Orizaba](http://orizaba.tecnm.mx/web)
 ### 💻 Apasionado por la IA, Desarrollo de Software e Innovación Tecnológica 
 
 ---
