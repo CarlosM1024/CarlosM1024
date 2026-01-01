@@ -1,23 +1,31 @@
 name: Update Recent Activity
 
 on:
-  workflow_dispatch:  # Para ejecutar manualmente
   schedule:
     - cron: '0 */6 * * *'  # Cada 6 horas
+  workflow_dispatch:  # Para ejecutar manualmente
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-      # Paso 1: Descargar el repositorio
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      # Paso 2: Usar la acción de jamesgeorge007
-      - name: Update README with activity
+      - name: Update README with recent activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          MAX_LINES: 8  # Número de actividades a mostrar
+          COMMIT_MSG: '🔄 Actualización de actividad en README'
+          MAX_LINES: 10
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Actualización automática de actividad" && git push)
