@@ -78,6 +78,7 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 ---
 
