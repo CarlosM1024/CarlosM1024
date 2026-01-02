@@ -76,6 +76,12 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 
 ---
 
+## ⚡ Recent Activity
+
+*⏳ Cosechando los últimos eventos de mis repositorios...*
+
+---
+
 ## 📫 Let's Connect!
 
 I am always open to collaborating on interesting projects or discussing tech innovation. Feel free to reach out!
