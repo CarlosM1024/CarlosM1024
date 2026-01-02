@@ -61,7 +61,7 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosM1024&theme=tokyonight" alt="GitHub Streak" width="100%" />
       </td>
       <td width="50%" align="center" style="border: none; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosM1024&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosM1024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
