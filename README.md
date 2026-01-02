@@ -54,9 +54,15 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosM1024&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosM1024&layout=compact&theme=radical&hide_border=true&langs_count=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarlosM1024&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosM1024&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosM1024&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosM1024&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
