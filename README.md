@@ -52,33 +52,26 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 
 ## 📈 GitHub Stats
 
-## 📊 Activity Overview
-
-<table align="center" style="border: none;">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosM1024&theme=tokyonight" width="100%" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosM1024&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-</table>
-
-
-<p align="center">
-  <table align="center" style="border: none;">
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td width="50%" align="center" style="border: none; vertical-align: top;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosM1024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" width="100%" />
+      <td width="50%" align="center" style="border: none; padding: 5px;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosM1024&theme=tokyonight" width="100%" />
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 5px;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosM1024&theme=tokyonight" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="border: none; padding: 20px 5px 5px 5px;">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosM1024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" width="85%" />
       </td>
     </tr>
   </table>
-</p>
 
-<p align="center">
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=CarlosM1024&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
