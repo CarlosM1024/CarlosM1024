@@ -51,28 +51,25 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=CarlosM1024&show_icons=true&hide_rank=true&custom_title=JsNcAr&theme=radical)
 
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CarlosM1024&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosM1024&theme=dark&hide_border=false" /> 
-</td>
+  <table align="center" style="border: none;">
+    <tr>
+      <td width="50%" align="center" style="border: none; vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api?username=CarlosM1024&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Carlos Stats" width="100%" />
+        <br/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosM1024&theme=tokyonight" alt="GitHub Streak" width="100%" />
+      </td>
+      <td width="50%" align="center" style="border: none; vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosM1024&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosM1024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosM1024&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
