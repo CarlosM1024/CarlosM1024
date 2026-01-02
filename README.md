@@ -52,12 +52,32 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 
 ## 📈 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosM1024&theme=tokyonight) 
+## 📊 Activity Overview
 
-
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosM1024&theme=tokyonight) 
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosM1024&theme=tokyonight" width="100%" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosM1024&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=CarlosM1024&show_icons=true&theme=midnight-purple&count_private=true&locale=es" width="100%" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosM1024&theme=midnight-purple&layout=compact&count_private=true&locale=es" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none;">
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=CarlosM1024&theme=buefy-dark&count_private=true&locale=es" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
