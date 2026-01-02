@@ -52,13 +52,21 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 
 ## 📈 GitHub Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosM1024&theme=tokyonight) 
+
+
+![](https://github-readme-stats.vercel.app/api?username=CarlosM1024&show_icons=true&theme=midnight-purple&card_width=200&?count_private=true&locale=es)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosM1024&show_icons=true&theme=midnight-purple&layout=compact&?count_private=true&locale=es)
+![](https://github-readme-streak-stats.herokuapp.com?user=CarlosM1024&theme=buefy-dark&count_private=true&locale=es)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosM1024&theme=tokyonight) 
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=CarlosM1024&theme=react-dark&day=90)
+
 <p align="center">
   <table align="center" style="border: none;">
     <tr>
       <td width="50%" align="center" style="border: none; vertical-align: top;">
         <img src="https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=CarlosM1024&show_icons=true&hide_rank=true&custom_title=CarlosM1024&theme=radical" alt="Carlos Stats" width="100%" />
-        <br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosM1024&theme=tokyonight" alt="GitHub Streak" width="100%" />
       </td>
       <td width="50%" align="center" style="border: none; vertical-align: top;">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosM1024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" width="100%" />
