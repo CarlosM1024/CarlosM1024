@@ -52,26 +52,20 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <table style="border: none; border-collapse: collapse; width: 100%;">
-    <tr>
-      <td colspan="2" align="center" style="border: none; padding-bottom: 10px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosM1024&theme=tokyonight" width="90%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" style="border: none; padding-right: 5px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosM1024&theme=tokyonight" width="85%" />
-      </td>
-      <td width="50%" align="center" style="border: none; padding-left: 5px;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosM1024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" width="70%" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosM1024&theme=tokyonight" width="90%" />
+</p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosM1024&theme=tokyonight" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosM1024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" width="35%" />
+</p>
+
+<p align="center">
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=CarlosM1024&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
+</p>
 
 ---
 
