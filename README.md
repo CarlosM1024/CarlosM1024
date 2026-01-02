@@ -56,7 +56,7 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
   <table align="center" style="border: none;">
     <tr>
       <td width="50%" align="center" style="border: none; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api?username=CarlosM1024&theme=dark&show_icons=true&count_private=true" alt="Carlos Stats" width="100%" />
+        <img src="https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=CarlosM1024&show_icons=true&hide_rank=true&custom_title=CarlosM1024&theme=radical" alt="Carlos Stats" width="100%" />
         <br/><br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosM1024&theme=tokyonight" alt="GitHub Streak" width="100%" />
       </td>
