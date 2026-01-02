@@ -1,8 +1,8 @@
 name: Update Activity
 on:
   schedule:
-    - cron: '0 */6 * * *' # Se ejecuta cada 6 horas
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -13,7 +13,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          MAX_LINES: 8
-          # Personaliza aquí lo que se muestra
+          MAX_LINES: 10
           COMMIT_MSG: "⚡ Actualizada la actividad reciente"
-          EMPTY_MESSAGE: "Trabajando duro en nuevos proyectos... ¡Vuelve pronto!"
