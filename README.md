@@ -62,7 +62,7 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
       <td width="50%" align="center" style="border: none; padding-right: 5px;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosM1024&theme=tokyonight" width="85%" />
       </td>
-      <td width="70%" align="center" style="border: none; padding-left: 5px;">
+      <td width="100%" align="center" style="border: none; padding-left: 5px;">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosM1024&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" width="70%" />
       </td>
     </tr>
