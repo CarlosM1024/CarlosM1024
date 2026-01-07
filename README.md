@@ -78,15 +78,15 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IoT-temperature-humidity-monitor](https://github.com/CarlosM1024/IoT-temperature-humidity-monitor)<br>
-2. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IoT-temperature-humidity-monitor](https://github.com/CarlosM1024/IoT-temperature-humidity-monitor)<br>
-3. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IMC_Calculator_Flutter](https://github.com/CarlosM1024/IMC_Calculator_Flutter)<br>
-4. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IMC_Calculator_Flutter](https://github.com/CarlosM1024/IMC_Calculator_Flutter)<br>
-5. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IMC_Calculator_Flutter](https://github.com/CarlosM1024/IMC_Calculator_Flutter)<br>
+1. ⬆️ Pushed undefined commit(s) to [CarlosM1024/App-PoseFit-Trainer](https://github.com/CarlosM1024/App-PoseFit-Trainer)<br>
+2. ⬆️ Pushed undefined commit(s) to [CarlosM1024/QR_Generator](https://github.com/CarlosM1024/QR_Generator)<br>
+3. ⬆️ Pushed undefined commit(s) to [CarlosM1024/Automatizar-Tareas](https://github.com/CarlosM1024/Automatizar-Tareas)<br>
+4. ⬆️ Pushed undefined commit(s) to [CarlosM1024/Automatizar-Tareas](https://github.com/CarlosM1024/Automatizar-Tareas)<br>
+5. ⬆️ Pushed undefined commit(s) to [CarlosM1024/Automatizar-Tareas](https://github.com/CarlosM1024/Automatizar-Tareas)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 7th, 2026, 1:28:42 AM
+Last Updated: Wednesday, January 7th, 2026, 12:41:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
