@@ -15,12 +15,14 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 ## 🛠️ Technologies & Tools
 
 ### **💻 Programming Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **🤖 AI & Machine Learning Frameworks**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -29,12 +31,14 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### **📱 Mobile, Backend & Frontend**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **🐳 DevOps & Infrastructure**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -42,6 +46,7 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### **🔬 Hardware & Engineering**
+
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -69,14 +74,10 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
   </table>
 </div>
 
-<p align="center">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosM1024&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## ⚡ Recent Activity
+
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IoT-temperature-humidity-monitor](https://github.com/CarlosM1024/IoT-temperature-humidity-monitor)<br>
 2. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IoT-temperature-humidity-monitor](https://github.com/CarlosM1024/IoT-temperature-humidity-monitor)<br>
@@ -102,6 +103,7 @@ I am always open to collaborating on interesting projects or discussing tech inn
 ---
 
 ## 📂 Featured Projects
+
 Take a look at my repositories below! ⬇️
 
 ---
