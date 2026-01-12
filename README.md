@@ -79,15 +79,15 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IoT-temperature-humidity-monitor](https://github.com/CarlosM1024/IoT-temperature-humidity-monitor)<br>
-2. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IoT-temperature-humidity-monitor](https://github.com/CarlosM1024/IoT-temperature-humidity-monitor)<br>
+1. ⬆️ Pushed undefined commit(s) to [CarlosM1024/CarlosM1024](https://github.com/CarlosM1024/CarlosM1024)<br>
+2. ⬆️ Pushed undefined commit(s) to [CarlosM1024/Serverless-YOLO-Cloud-Detection](https://github.com/CarlosM1024/Serverless-YOLO-Cloud-Detection)<br>
 3. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IoT-temperature-humidity-monitor](https://github.com/CarlosM1024/IoT-temperature-humidity-monitor)<br>
 4. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IoT-temperature-humidity-monitor](https://github.com/CarlosM1024/IoT-temperature-humidity-monitor)<br>
 5. ⬆️ Pushed undefined commit(s) to [CarlosM1024/IoT-temperature-humidity-monitor](https://github.com/CarlosM1024/IoT-temperature-humidity-monitor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 12th, 2026, 1:43:09 AM
+Last Updated: Monday, January 12th, 2026, 12:43:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
