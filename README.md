@@ -82,12 +82,12 @@ I am a multi-disciplinary engineer dedicated to bridging the gap between mechani
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cmoralesd/york](https://github.com/cmoralesd/york)<br>
-2. ⭐ Starred [cmoralesd/my_robot](https://github.com/cmoralesd/my_robot)<br>
+1. ⭐ Starred [Slamtec/rplidar_ros](https://github.com/Slamtec/rplidar_ros)<br>
+2. ⭐ Starred [cmoralesd/york](https://github.com/cmoralesd/york)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 9th, 2026, 4:38:52 AM
+Last Updated: Monday, November 9th, 2026, 9:54:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
